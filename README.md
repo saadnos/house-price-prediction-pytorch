@@ -1,6 +1,3 @@
-# house-price-prediction-pytorch
-A house price prediction model built with PyTorch using a feedforward neural network, feature standardization, and regression evaluation.
-
 # House Price Prediction 
 
 A simple machine learning project where I built a neural network using **PyTorch** to predict house prices based on their features.
