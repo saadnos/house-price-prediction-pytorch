@@ -23,7 +23,6 @@ Thumbs.db
 data.csv
 
 # Generated model and plots
-house_model.pth
 *.png
 *.jpg
 
